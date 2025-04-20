@@ -6,7 +6,7 @@
   <img height="140px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaorui-shi&layout=compact&langs_count=8&theme=buefy&title_color=fd8c73&text_color=333333&bg_color=ffffff&hide=html,css" alt="Language Stats" />
   
   ### 👦🏻 About Me
-  - 🛠️ Front-end developer @ Kaiying  
+  - 🛠️ Front-end developer @ King Net  
   - 🎓 CS Graduate from Wuhan Engineering University  
   - 📝 Writing at [blog.sqryun.xyz](https://blog.sqryun.xyz/)
   - 🌱 Currently learning nestjs and react
