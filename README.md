@@ -20,7 +20,6 @@
   ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
   ![JavaScript](https://img.shields.io/badge/JavaScript-35495E?style=flat&logo=javascript&logoColor=F7DF1E)
   ![TypeScript](https://img.shields.io/badge/TypeScript-35495E?style=flat&logo=typescript&logoColor=3178C6)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-35495E?style=flat&logo=tailwind-css&logoColor=06B6D4)
 
 - ⚙️ &nbsp; 
   ![Node.js](https://img.shields.io/badge/Node.js-35495E?style=flat&logo=node.js&logoColor=339933)
