@@ -3,7 +3,7 @@
 </p>
 
 <div>
-  <img height="140px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaorui-shi&layout=compact&langs_count=8&theme=buefy&title_color=fd8c73&text_color=333333&bg_color=ffffff&hide=html,css" alt="Language Stats" />
+  <img height="140px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qrshi-Sss&layout=compact&langs_count=8&theme=buefy&title_color=fd8c73&text_color=333333&bg_color=ffffff&hide=html,css" alt="Language Stats" />
   
   ### 👦🏻 About Me
   - 🛠️ Front-end developer @ King Net  
@@ -13,7 +13,7 @@
 </div>
 
 <div>
-  <img height="170px" align="right" src="https://github-readme-stats.vercel.app/api?username=qiaorui-shi&show_icons=true&theme=buefy&title_color=fd8c73&text_color=333333&bg_color=ffffff&icon_color=333333&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170px" align="right" src="https://github-readme-stats.vercel.app/api?username=qrshi-Sss&show_icons=true&theme=buefy&title_color=fd8c73&text_color=333333&bg_color=ffffff&icon_color=333333&include_all_commits=true" alt="GitHub Stats" />
   
   ### 🛠️ Tech Stack  
 - 🌐 &nbsp;
