@@ -6,10 +6,10 @@
   <img height="140" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qrshi-Sss&layout=compact&langs_count=8&theme=buefy&title_color=fd8c73&text_color=333333&bg_color=ffffff&hide=html,css&cache_seconds=7200" alt="Language Stats" />
   
   ### 👦🏻 关于我
-  - 🛠️ 前端开发 @ King Net  
-  - 🎓 武汉工程大学 计算机专业  
-  - 📝 写作：[blog.sqryun.xyz](https://blog.sqryun.xyz/)
-  - 🌱 正在学习 NestJS 与 React
+  - 🛠️ Front-end developer @ King Net  
+  - 🎓 CS Graduate from Wuhan Engineering University 
+  - 📝 Writing at blog.sqryun.xyz
+  - 🌱 Currently learning nestjs and react
 </div>
 
 <div>
