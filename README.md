@@ -3,6 +3,7 @@
 </p>
 
 <div>
+  <img height="140" align="right" src="https://github-readme-stats.vercel.app/api?username=qrshi-Sss&show_icons=true&theme=transparent" /> 
   <img height="140" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qrshi-Sss&layout=compact&langs_count=8&theme=buefy&title_color=fd8c73&text_color=333333&bg_color=ffffff&hide=html,css&cache_seconds=7200" alt="Language Stats" />
   
   ### 👦🏻 About Me
