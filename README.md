@@ -31,7 +31,3 @@
     ![VS Code](https://img.shields.io/badge/VS_Code-35495E?style=flat&logo=visual-studio-code&logoColor=007ACC)
     ![Docker](https://img.shields.io/badge/Docker-35495E?style=flat&logo=docker&logoColor=2496ED)
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=qrshi-Sss&date_format=%5BY%5D-%5Bm%5D-%5Bd%5D&theme=buefy&ring=fd8c73&fire=fd8c73&currStreakLabel=fd8c73&background=ffffff&hide_border=true" alt="GitHub Streak" />
-</div>
