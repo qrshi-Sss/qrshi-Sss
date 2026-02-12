@@ -13,7 +13,7 @@
 </div>
 
 <div>
-  <img height="170" align="right" src="https://github-readme-stats.vercel.app/api/api?username=qrshi-Sss&show_icons=true&theme=buefy&title_color=fd8c73&text_color=333333&bg_color=ffffff&icon_color=333333&include_all_commits=true&rank_icon=percent&cache_seconds=7200" alt="GitHub Stats" />
+  <!-- <img height="170" align="right" src="https://github-readme-stats.vercel.app/api/api?username=qrshi-Sss&show_icons=true&theme=buefy&title_color=fd8c73&text_color=333333&bg_color=ffffff&icon_color=333333&include_all_commits=true&rank_icon=percent&cache_seconds=7200" alt="GitHub Stats" /> -->
   
   ### 🛠️ Tech Stack  
   - 🌐 &nbsp;
